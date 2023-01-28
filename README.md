@@ -7,12 +7,12 @@ Building realistic projects to improve my front-end skills.
 ![](screenshots/ss-desktop.png)
 
 <p align="center">
-<img width="350" height="900" src="screenshots/ss-mobile.png">
+<img width="350" height="1100" src="screenshots/ss-mobile.png">
 </p>
 
 ### Links
 
-- Live Site URL: [News homepage](https://faq-acc0rdion.netlify.app/)
+- Live Site URL: [News homepage](https://news-h0mepage.netlify.app/)
 
 ## Built with
 
